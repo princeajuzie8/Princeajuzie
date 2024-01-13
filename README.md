@@ -1,29 +1,35 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<h1 align="center">Hello, I'm Prince 👋</h1>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/princeajuzie/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/princeajuzie/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://www.buymeacoffee.com/zed0" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+  </a>
 </p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :woman_technologist: &nbsp;About Me :
-
-I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://bio.link/princeaj)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt="">
+</div>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🚀 &nbsp;About Me
+
+I am a passionate Full Stack Engineer with a focus on creating robust and scalable web applications. My expertise spans across a variety of technologies, and I am committed to continuous learning and improvement.
+
+- 🔭 Currently working as a Software Engineer / #opentowork.
+- 🌱 Exploring Technical Writing on LinkedIn.
+- ⚡ In my free time, I dive into tech articles and contribute to the community.
+
+### 🛠 &nbsp;Tech Stack
+
+I'm proficient in a variety of languages and tools, including but not limited to:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -44,17 +50,27 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
----
+### 📊 &nbsp;GitHub Stats
 
-### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsZed0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+### 📝 &nbsp;Featured Projects
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
+#### [Cinewave](https://github.com/Princeajuzie/cinewave)
+- Description: A Movie app that leverages the TMDB API.
+- Technologies Used: Next js, Typescript, Contex Api.
+- Demo: https://cinewaves.vercel.app/.
+
+#### [Oravent](https://github.com/Princeajuzie/oravent)
+- Description: An Event booking app.
+- Technologies Used: Next js, Javascript, Email js, and Axios for data fetching.
+- Demo: https://oravent.vercel.app/.
+
+### ✍️ &nbsp;Blog Posts
+
+- [Why Express Js? Out Of Other Frameworks](https://princeajuzie.hashnode.dev/why-express-js-out-of-other-frameworks#clhr6dlje01auq6nv5jnwfkyf)
+- [Journey of a Frontend Engineer Exploring the MEAN Stack: Welcome to my Hashnode Blog!](https://medium.com/@princeajuzie/title-journey-of-a-frontend-engineer-exploring-the-mean-stack-welcome-to-my-hashnode-blog-479737e685d4)
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
